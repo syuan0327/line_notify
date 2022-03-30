@@ -2,7 +2,7 @@ import requests
 import climb
 import time
 import os
-token = '5zR1x3V9Gxt2ZOzBBa6icxo7dxSHRADSIRAcEDR8HLg'
+token = ''
 def lineNotifyMessage(token, msg):
     headers = {
         "Authorization": "Bearer " + token,
