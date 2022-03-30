@@ -16,7 +16,7 @@
 2.  再來是買價的部分，要從`fox_buy`和`cdi_buy`這兩個變數修改。
 3.  如果有需要查詢的股價可以更改`news1`和`news2`網址後面的數字。
 4.  目前只能有兩種股價判斷，如果需要可依照寫法自行新增。
-```
+```python
 
 from bs4 import BeautifulSoup
 from numpy import c_
