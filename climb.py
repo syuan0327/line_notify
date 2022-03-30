@@ -13,8 +13,8 @@ soup2=BeautifulSoup(news2.text,'html.parser')
 #print(soup.prettify())
 fbox=[]
 cbox=[]
-fox_buy=104.59
-cdi_buy=18.34
+fox_buy=
+cdi_buy=
 def foxconn():
     results1=soup1.find_all('div',class_='D(f) Ai(fe) Mb(4px)')#找全部或限制數量
     for result in results1:
