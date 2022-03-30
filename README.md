@@ -135,4 +135,5 @@ if __name__=="__main__":
 
 ```
 基本上這兩個寫好沒出錯的話在你的電腦執行主程式，就會開始執行了!!下次來補如何不用開電腦就可以執行程式。結果如下圖：
-<img src=''>
+
+<img src='https://github.com/syuan0327/line_notify/blob/main/money.JPG'>
